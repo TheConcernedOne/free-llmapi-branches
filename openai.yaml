@@ -1,0 +1,4 @@
+interface:
+  display_name: "Branches"
+  short_description: "Build, cross-audit, and fix competing code branches"
+  default_prompt: "Use $branches to build two independent solutions with my FreeLLMAPI models, cross-audit and fix them, then apply the tested winner."
